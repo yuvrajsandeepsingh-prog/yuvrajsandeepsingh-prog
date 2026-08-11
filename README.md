@@ -1,393 +1,378 @@
+# YUVRAJ SINGH
 
-# Yuvraj Singh
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:7C3AED&height=190&section=header&text=YUVRAJ%20SINGH&fontSize=48&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=Data%20Engineering%20%7C%20Software%20Engineering%20%7C%20AI%2FML&descAlignY=62&descSize=17" width="100%"/>
+</p>
 
-### Software Engineer • AI/ML Enthusiast • Full-Stack Developer
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Aspiring+Data+Engineer;Python+%7C+SQL+%7C+Data+Pipelines;Software+Engineering+%7C+AI%2FML;Building+Practical+Data-Driven+Solutions" alt="Typing SVG"/>
+</p>
 
-<p align="left">
-  <a href="YOUR_PORTFOLIO_URL">
-    <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=flat-square&logo=vercel&logoColor=white" />
-  </a>
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-4F46E5?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:YOUR_EMAIL@example.com">
-    <img src="https://img.shields.io/badge/Email-6D28D9?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-312E81?style=flat-square&logo=github&logoColor=white" />
+<p align="center">
+  <a href="https://github.com/yuvrajsandeepsingh-prog">
+    <img src="https://img.shields.io/badge/GitHub-yuvrajsandeepsingh--prog-181717?style=for-the-badge&logo=github"/>
   </a>
 </p>
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=PROFILE%20VIEWS&color=7C3AED&style=flat-square" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yuvrajsandeepsingh-prog&label=PROFILE%20VIEWS&color=7C3AED&style=flat-square"/>
+  <img src="https://img.shields.io/github/followers/yuvrajsandeepsingh-prog?label=Followers&style=flat-square&color=6366F1"/>
+  <img src="https://img.shields.io/github/stars/yuvrajsandeepsingh-prog?label=Stars&style=flat-square&color=8B5CF6"/>
 </p>
 
 ---
 
-## `01` / PROFILE
+# `01` — ABOUT ME
 
-> **Engineering software that solves real problems.**
+### Data Engineering • Software Engineering • AI/ML
 
-I'm a Computer Engineering student focused on **software engineering, AI/ML, backend development, and full-stack product development**.
+I'm a **Computer Engineering student focused on Data Engineering and software development**, with a strong interest in building reliable data workflows, working with databases, and developing practical data-driven systems.
 
-I enjoy taking ideas from **problem → architecture → implementation → deployment**, with an emphasis on maintainability, performance, security, and real-world usability.
+I'm currently building my foundation in **Python, SQL, databases, data pipelines, backend development, and cloud technologies**, while exploring how data engineering connects with analytics, machine learning, and modern software systems.
 
-Currently building my foundation toward becoming a **strong software engineer and AI/ML engineer**.
+I enjoy taking real-world problems and converting them into structured technical solutions — from collecting and processing data to building applications and deploying usable products.
 
-### What I Bring
+### Engineering Mindset
 
-| Area | Focus |
-|---|---|
-| ⚙️ Software Engineering | Clean architecture, APIs, maintainable systems |
-| 🤖 AI / ML | Python, ML fundamentals, applied AI |
-| 🌐 Full Stack | Modern frontend + backend development |
-| 🗄️ Backend | APIs, databases, authentication, application logic |
-| 🚀 Product Engineering | Turning requirements into usable products |
-| 🔧 Engineering Mindset | Problem solving, debugging, continuous learning |
+**DATA ENGINEERING**
 
----
+`Python` → `SQL` → `Data Systems` → `ETL / ELT` → `Data Pipelines`
 
-## `02` / TECHNICAL STACK
+**SOFTWARE ENGINEERING**
 
-### Languages
+`Backend` → `APIs` → `Databases` → `Cloud / DevOps`
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,cpp,c,javascript,html,css&theme=dark"/>
-</p>
+**AI / ML**
 
-### Development
+`Data` → `Processing` → `Machine Learning` → `Intelligent Applications`
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,spring&theme=dark"/>
-</p>
+### Open To
 
-### Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,firebase&theme=dark"/>
-</p>
-
-### Engineering Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,vercel,linux&theme=dark"/>
-</p>
+- Data Engineering opportunities
+- Software Engineering opportunities
+- Data-focused projects
+- Backend development
+- AI/ML projects
+- Open-source collaboration
+- Technical communities
 
 ---
 
-## `03` / ENGINEERING INTERESTS
+# `02` — DATA ENGINEERING STACK
 
-```text
-                    SOFTWARE ENGINEERING
-                           │
-          ┌────────────────┼────────────────┐
-          │                │                │
-       BACKEND           AI / ML         FULL STACK
-          │                │                │
-       APIs             Python          Frontend
-       Systems          ML Models       Backend
-       Databases        Data            APIs
-          │                │                │
-          └────────────────┼────────────────┘
-                           │
-                    PRODUCT ENGINEERING
-                           │
-                     REAL-WORLD IMPACT
-````
+## Core Technologies
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,mysql,postgres,mongodb&theme=dark"/>
+</p>
+
+| Technology | Focus |
+|:---|:---|
+| **Python** | Data processing, automation & scripting |
+| **SQL** | Data querying & database management |
+| **MySQL** | Relational database systems |
+| **PostgreSQL** | Relational data & structured querying |
+| **MongoDB** | NoSQL data storage |
+
+## Data Engineering Concepts
+
+`ETL` `ELT` `Data Pipelines` `Data Cleaning` `Data Transformation` `Data Integration` `Data Warehousing` `Database Design` `APIs`
+
+### Data Engineering Workflow
+
+**Data Sources**  
+↓  
+**Data Ingestion**  
+↓  
+**Data Validation**  
+↓  
+**Data Cleaning**  
+↓  
+**Data Transformation**  
+↓  
+**Data Storage**  
+↓  
+**Data Warehouse**  
+↓  
+**Analytics / Applications / ML**
 
 ---
 
-## `04` / SELECTED PROJECTS
+# `03` — SOFTWARE ENGINEERING
 
-### ◈ Paithani Men's Wear
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,javascript,html,css,nodejs,express,spring&theme=dark"/>
+</p>
+
+### Development Skills
+
+- Object-Oriented Programming
+- Backend Development
+- REST APIs
+- Web Development
+- Database Integration
+- Application Architecture
+- Debugging & Problem Solving
+- Git & Version Control
+
+### Development Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,vercel,linux&theme=dark"/>
+</p>
+
+`Git` `GitHub` `VS Code` `Postman` `Docker` `Vercel` `Linux`
+
+---
+
+# `04` — AI / ML INTEREST
+
+Data Engineering is my primary domain, while **AI/ML is an important supporting area of interest**.
+
+| Domain | Focus |
+|:---|:---|
+| **Python for AI/ML** | Building strong programming foundations |
+| **Data Preparation** | Cleaning & transforming datasets |
+| **Machine Learning** | Understanding ML concepts |
+| **Data Processing** | Preparing data for analysis and ML |
+| **Applied AI** | Exploring AI-powered applications |
+| **RAG** | Retrieval Augmented Generation |
+
+### Data → AI Pipeline
+
+**Raw Data**  
+↓  
+**Data Engineering**  
+↓  
+**Cleaning & Transformation**  
+↓  
+**Data Warehouse / Lake**  
+↓  
+**Feature Engineering**  
+↓  
+**Machine Learning**  
+↓  
+**Intelligent Applications**
+
+---
+
+# `05` — FEATURED PROJECTS
+
+## 🚨 Disaster Help System
+
+<p align="center">
+  <a href="https://v0-disaster-help-system-iqteupvd9.vercel.app/">
+    <img src="https://img.shields.io/badge/🚀%20LIVE%20DEMO-7C3AED?style=for-the-badge"/>
+  </a>
+</p>
 
 <details>
-<summary><strong>View Project Architecture & Impact</strong></summary>
+<summary><strong>View Project Details</strong></summary>
 
-<br>
+### Overview
 
-A product-focused e-commerce platform built around **Paithani men's wear**, designed to help traditional artisans and rural entrepreneurs reach customers through a digital storefront.
+**Disaster Help System** is a web-based project designed around the problem of organizing and providing assistance during disaster situations.
 
-#### Problem
+The project focuses on creating a centralized digital interface where disaster-related assistance can be structured into a more accessible workflow.
 
-Traditional businesses can face challenges with digital visibility, product discovery, customization, and communicating product value to customers.
+### Project Objective
 
-#### Solution
+The goal is to use software and structured information systems to make disaster assistance more organized, accessible, and easier to manage.
 
-A structured web platform focused on presenting Paithani products through a modern digital experience.
+### Engineering Scope
 
-| Dimension         | Details                                            |
-| ----------------- | -------------------------------------------------- |
-| **Product**       | E-commerce platform                                |
-| **Focus**         | Paithani men's wear                                |
-| **Engineering**   | Frontend + product design                          |
-| **Core Features** | Product presentation, customization, pricing       |
-| **Business Goal** | Improve digital accessibility                      |
-| **Impact**        | Connect traditional products with modern customers |
+| Area | Details |
+|:---|:---|
+| **Project Type** | Disaster assistance web platform |
+| **Application** | Web-based system |
+| **Deployment** | Vercel |
+| **Primary Focus** | Emergency assistance |
+| **Data Potential** | Assistance & location-related information |
+| **Future Scope** | APIs, databases & data workflows |
 
-#### Engineering Work
+### Engineering Work
 
-* Designed product-focused user flows.
-* Structured product information for easy discovery.
-* Implemented pricing and product presentation.
-* Added customization-oriented concepts.
-* Focused on usability and digital commerce.
-* Approached the project from both a **technical and product perspective**.
+- Designed the application around disaster assistance requirements.
+- Built the user-facing application interface.
+- Structured the application around emergency support workflows.
+- Deployed the project using Vercel.
+- Explored location-aware functionality.
+- Planned database and backend integration.
+- Identified opportunities for structured disaster-related data workflows.
 
-**Stack:** `HTML` `CSS` `JavaScript` `Web Development`
+### Technology
+
+`JavaScript` `Web Development` `Vercel` `APIs` `Database Architecture`
+
+### Live Project
+
+[View Live Project](https://v0-disaster-help-system-iqteupvd9.vercel.app/)
 
 </details>
 
 ---
 
-### ◈ Disaster Help System
+## 🧵 Paithani Men's Wear
 
 <details>
-<summary><strong>View Project Architecture & Impact</strong></summary>
+<summary><strong>View Project Details</strong></summary>
 
-<br>
+### Overview
 
-A web-based emergency assistance platform designed to organize disaster-related help through a centralized digital system.
+A product-focused e-commerce website designed around **Paithani men's wear**, with the objective of bringing traditional products and rural entrepreneurship into a modern digital environment.
 
-#### Problem
+### Problem
 
-During emergencies, fragmented information and inefficient communication can make it difficult to coordinate assistance.
+Traditional and rural businesses can face challenges with digital visibility, product discovery, customization, and presenting structured product information to customers.
 
-#### Solution
+### Solution
 
-A centralized platform designed around disaster assistance workflows, administration, and location-aware functionality.
+A structured web platform focused on product presentation, customization, pricing, and digital accessibility.
 
-| Dimension             | Details                      |
-| --------------------- | ---------------------------- |
-| **Product**           | Disaster assistance platform |
-| **Architecture**      | Web application              |
-| **Deployment**        | Vercel                       |
-| **Core Area**         | Emergency assistance         |
-| **Planned Backend**   | Database + API integration   |
-| **Potential Feature** | Location-aware assistance    |
+### Features
 
-#### Engineering Work
+- Product presentation
+- Product customization
+- Pricing information
+- Quality assurance concepts
+- Digital storefront
+- Structured product information
+- User-focused product experience
 
-* Designed the disaster assistance interface.
-* Structured emergency support workflows.
-* Explored database-backed architecture.
-* Planned automatic location detection.
-* Designed administrative functionality.
-* Deployed the web application using a modern hosting workflow.
+### Engineering Focus
 
-**Live Application:**
-https://v0-disaster-help-system-beige.vercel.app/
+| Area | Implementation |
+|:---|:---|
+| **Domain** | E-Commerce |
+| **Product** | Paithani Men's Wear |
+| **Frontend** | Web interface |
+| **Focus** | Product discovery & presentation |
+| **Goal** | Digital accessibility |
 
-**Stack:** `JavaScript` `Web Development` `Vercel` `APIs` `Database Architecture`
+### Technology
+
+`HTML` `CSS` `JavaScript` `Web Development` `Product Engineering`
 
 </details>
 
 ---
 
-### ◈ Python → AI/ML Engineering
+# `06` — ACHIEVEMENTS
 
-<details>
-<summary><strong>View Learning Roadmap</strong></summary>
+<div align="center">
 
-<br>
+| Recognition | Details |
+|:---:|:---|
+| 🏆 **NeoFuture National Hackathon** | Certificate of Appreciation as an Organizing Committee Member |
+| ⚙️ **Technical Operations** | Co-organized a national-level multi-track hackathon |
+| 🤝 **IEEE Maharashtra Section** | Committee Member and active contributor |
+| 💻 **IEEE Hackathon** | Participated in an IEEE hackathon |
+| 🌐 **IEEE Activities** | Contributed to multiple IEEE-related technical activities |
 
-A continuous engineering track focused on building strong foundations in **Python, DSA, machine learning, and AI engineering**.
-
-```text
-Python
-  ↓
-Programming Fundamentals
-  ↓
-Problem Solving
-  ↓
-Data Structures & Algorithms
-  ↓
-Data Handling
-  ↓
-Machine Learning
-  ↓
-AI Engineering
-  ↓
-Production AI Applications
-```
-
-**Current Stack:** `Python` `VS Code`
-
-**Focus Areas**
-
-* Python fundamentals
-* Programming logic
-* Problem solving
-* Data Structures & Algorithms
-* Machine Learning
-* AI application development
-* Software engineering principles
-
-</details>
+</div>
 
 ---
 
-## `05` / ENGINEERING EXPERIENCE
+# `07` — CERTIFICATIONS
 
-### Independent Software Development
+<div align="center">
 
-`2025 — Present`
+| Certification | Provider | Focus |
+|:---|:---:|:---|
+| 🧠 **Retrieval Augmented Generation (RAG)** | **IBM SkillsBuild** | Generative AI & RAG |
+| 📊 **Power BI Development** | **Microsoft Learn** | Data Visualization & Business Intelligence |
 
-Building and experimenting with software products across **web development, backend engineering, and AI/ML**.
+</div>
 
-**Responsibilities**
-
-* Translate real-world problems into technical solutions.
-* Design application architecture.
-* Build and test software features.
-* Work with APIs and databases.
-* Deploy applications.
-* Debug and improve existing implementations.
-* Continuously develop software engineering fundamentals.
-
-`Python` `JavaScript` `Git` `GitHub` `APIs` `Databases` `Full Stack`
-
----
-
-## `06` / ACHIEVEMENTS
-
-| Recognition | Achievement                                                                |
-| :---------: | -------------------------------------------------------------------------- |
-|      🎓     | Computer Engineering student focused on software engineering               |
-|      🏏     | Competitive cricket experience at club and U-19 level                      |
-|      🏆     | Recognized as a leading bowler in club-level tournament cricket            |
-|      💻     | Developed real-world projects addressing commerce and emergency assistance |
-|      🚀     | Building toward software engineering + AI/ML career                        |
-
----
-
-## `07` / CERTIFICATIONS & LEARNING
-
-<p>
-<img src="https://img.shields.io/badge/AWS-Learning-7C3AED?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/Oracle-Learning-6366F1?style=for-the-badge&logo=oracle&logoColor=white"/>
-</p>
-
-<p>
-<img src="https://img.shields.io/badge/NPTEL-Learning-5B21B6?style=for-the-badge&logo=google-scholar&logoColor=white"/>
-<img src="https://img.shields.io/badge/Cisco-Learning-4F46E5?style=for-the-badge&logo=cisco&logoColor=white"/>
-</p>
-
----
-
-## `08` / CODING PROFILES
-
-<p>
-<a href="https://leetcode.com/YOUR_LEETCODE_USERNAME/">
-<img src="https://img.shields.io/badge/LeetCode-7C3AED?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-
-<a href="https://www.geeksforgeeks.org/user/YOUR_GFG_USERNAME/">
-<img src="https://img.shields.io/badge/GeeksforGeeks-5B21B6?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-</a>
-
-<a href="https://www.hackerrank.com/YOUR_HACKERRANK_USERNAME">
-<img src="https://img.shields.io/badge/HackerRank-4F46E5?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-</a>
-
-<a href="https://www.codechef.com/users/YOUR_CODECHEF_USERNAME">
-<img src="https://img.shields.io/badge/CodeChef-312E81?style=for-the-badge&logo=codechef&logoColor=white"/>
-</a>
-</p>
-
----
-
-## `09` / GITHUB PERFORMANCE
+### IBM SkillsBuild
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=8B5CF6&icon_color=7C3AED&text_color=C4B5FD"/>
+  <img src="https://img.shields.io/badge/IBM%20SkillsBuild-RAG-7C3AED?style=for-the-badge&logo=ibm&logoColor=white"/>
+</p>
+
+**Retrieval Augmented Generation (RAG)**
+
+Focus: Generative AI, retrieval systems and AI-powered applications.
+
+---
+
+### Microsoft Learn
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Microsoft%20Learn-Power%20BI-6366F1?style=for-the-badge&logo=microsoft&logoColor=white"/>
+</p>
+
+**Power BI Development**
+
+Focus: Data visualization, dashboards and business intelligence.
+
+---
+
+# `08` — GITHUB ANALYTICS
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yuvrajsandeepsingh-prog&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=tokyonight&bg_color=0D1117&title_color=8B5CF6&icon_color=7C3AED&text_color=C4B5FD" width="48%"/>
+  <img src="https://streak-stats.demolab.com?user=yuvrajsandeepsingh-prog&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=7C3AED&currStreakLabel=C4B5FD" width="48%"/>
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=7C3AED&currStreakLabel=C4B5FD"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=8B5CF6&text_color=C4B5FD"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuvrajsandeepsingh-prog&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=8B5CF6&text_color=C4B5FD" width="42%"/>
 </p>
 
 ---
 
-## `10` / GITHUB TROPHIES
+# `09` — GITHUB TROPHIES
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=discord&no-frame=true&no-bg=true&margin-w=8&column=7"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=yuvrajsandeepsingh-prog&theme=discord&no-frame=true&no-bg=true&margin-w=8&column=7"/>
 </p>
 
 ---
 
-## `11` / CONTRIBUTION GRAPH
+# `10` — CONTRIBUTION ACTIVITY
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=0D1117&color=C4B5FD&line=8B5CF6&point=7C3AED&area=true&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yuvrajsandeepsingh-prog&bg_color=0D1117&color=C4B5FD&line=8B5CF6&point=7C3AED&area=true&hide_border=true&custom_title=Contribution%20Activity" width="100%"/>
 </p>
 
 ---
 
-## `12` / CONTRIBUTION SNAKE
+# `11` — CONTRIBUTION SNAKE
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
+  <img src="https://raw.githubusercontent.com/yuvrajsandeepsingh-prog/yuvrajsandeepsingh-prog/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
 </p>
 
 ---
 
-## `13` / CURRENTLY
+# `12` — CURRENT FOCUS
 
-```yaml
-learning:
-  - Python
-  - Data Structures & Algorithms
-  - Machine Learning
-  - Artificial Intelligence
-  - Software Engineering
+| Category | Current Focus |
+|:---|:---|
+| **Primary Domain** | Data Engineering |
+| **Supporting Domain** | Software Engineering |
+| **AI / ML** | Exploring AI/ML & RAG |
+| **Learning** | Python, SQL, DSA, Data Engineering |
+| **Building** | Data-driven applications & backend systems |
+| **Exploring** | Data Pipelines, Warehousing, Cloud & Big Data |
+| **Open To** | Data Engineering, Software Engineering & Open Source |
 
-building:
-  - Full-Stack Applications
-  - Backend Systems
-  - Product-Oriented Platforms
-  - AI/ML Projects
+### Current Learning
 
-exploring:
-  - System Design
-  - Cloud Engineering
-  - DevOps
-  - Applied AI
-  - Open Source
+`Python` `SQL` `Data Structures & Algorithms` `ETL / ELT` `Data Pipelines` `Databases` `Data Warehousing` `Cloud Technologies`
 
-open_to:
-  - Software Engineering Roles
-  - AI/ML Opportunities
-  - Full-Stack Projects
-  - Open Source Collaboration
-  - Engineering Challenges
-```
+### Currently Exploring
+
+`Apache Spark` `Apache Airflow` `Cloud Data Platforms` `Big Data Systems` `Machine Learning`
 
 ---
 
-## `14` / LET'S CONNECT
+# `13` — CONNECT
 
 <p align="center">
 
-<a href="YOUR_PORTFOLIO_URL">
-<img src="https://img.shields.io/badge/PORTFOLIO-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LINKEDIN-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL@example.com">
-<img src="https://img.shields.io/badge/EMAIL-6D28D9?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-<img src="https://img.shields.io/badge/GITHUB-312E81?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://github.com/yuvrajsandeepsingh-prog">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/>
 </a>
 
 </p>
@@ -396,13 +381,12 @@ open_to:
 
 <p align="center">
 
-### `ENGINEER • BUILD • LEARN • SHIP`
+### `BUILD • PROCESS • ANALYZE • ENGINEER`
 
-**Building software today. Engineering for tomorrow.**
+**Building reliable software and data-driven solutions.**
 
 </p>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:312E81,50:4F46E5,100:7C3AED&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:7C3AED&height=120&section=footer" width="100%"/>
 </p>
-```
