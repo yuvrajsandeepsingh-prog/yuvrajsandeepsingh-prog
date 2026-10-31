@@ -3,11 +3,11 @@
 # YUVRAJ SINGH
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:7C3AED&height=190&section=header&text=YUVRAJ%20SINGH&fontSize=48&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=Data%20Engineering%20%7C%20Software%20Engineering%20%7C%20AI%2FML&descAlignY=62&descSize=17" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:7C3AED&height=190&section=header&text=YUVRAJ%20SINGH&fontSize=48&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=Aspiring%20Data%20Engineer%20%7C%20Python%20%7C%20Data%20Projects&descAlignY=62&descSize=17" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Aspiring+Data+Engineer;Python+%7C+SQL+%7C+Data+Pipelines;Software+Engineering+%7C+AI%2FML;Building+Practical+Data-Driven+Solutions" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Aspiring+Data+Engineer;Learning+Python+and+SQL;Exploring+Data+Processing+and+ETL;Building+Practical+Data-Driven+Projects" alt="Typing SVG"/>
 </p>
 
 <p align="center">
@@ -26,7 +26,7 @@
 
 # `01` — ABOUT ME
 
-### Data Engineering • Software Engineering • AI/ML
+### Aspiring Data Engineer | Python | Data Projects
 
 I'm a **Computer Engineering student focused on Data Engineering and software development**, with a strong interest in building reliable data workflows, working with databases, and developing practical data-driven systems.
 
@@ -35,29 +35,20 @@ I'm currently building my foundation in **Python, SQL, databases, data pipelines
 I enjoy taking real-world problems and converting them into structured technical solutions — from collecting and processing data to building applications and deploying usable products.
 
 ### Engineering Mindset
-
 **DATA ENGINEERING**
 
 `Python` → `SQL` → `Data Systems` → `ETL / ELT` → `Data Pipelines`
 
-**SOFTWARE ENGINEERING**
-
-`Backend` → `APIs` → `Databases` → `Cloud / DevOps`
-
-**AI / ML**
-
-`Data` → `Processing` → `Machine Learning` → `Intelligent Applications`
-
 ### Open To
 
-- Data Engineering opportunities
-- Software Engineering opportunities
+- Data Engineering Internships
+- Python Developer Internships
+- Data Analyst / Data Operations Internships
 - Data-focused projects
-- Backend development
+- Backend development opportunities
 - AI/ML projects
 - Open-source collaboration
 - Technical communities
-
 ---
 
 # `02` — DATA ENGINEERING STACK
